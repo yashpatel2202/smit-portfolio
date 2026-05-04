@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.CawJvvTp.mjs";function t(e,t){return{description:`Junior UX/UI Designer`,favicon:`/images/assets/b5bCI8TdeAXOfmd708WUmxUny2c.png`,robots:`max-image-preview:large`,socialImage:`/images/assets/mCfbt8OtJEPaRxbIoRyD7PMhrs.png`,title:`Smit Bhanderi`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DkOUrNuN.mjs.map
