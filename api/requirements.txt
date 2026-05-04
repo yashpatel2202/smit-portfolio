@@ -1,1 +1,0 @@
-# No external dependencies — stdlib only (os, mimetypes, http.server, urllib.parse)
