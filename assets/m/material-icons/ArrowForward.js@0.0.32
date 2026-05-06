@@ -1,8 +1,0 @@
-/*
- * ArrowForward (material-icons/ArrowForward@0.0.32)
- *
- * Learn More: https://www.framer.com/asset-urls
- */
-
-export * from "/js/modules/bbCOPtP1LONZuLPi23Fj/Eah5VrIhLJ3JWtam56gU/ArrowForward.js"
-export { default } from "/js/modules/bbCOPtP1LONZuLPi23Fj/Eah5VrIhLJ3JWtam56gU/ArrowForward.js"
